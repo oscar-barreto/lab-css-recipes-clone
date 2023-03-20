@@ -22,3 +22,80 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+.image-container{
+  color: #fff;
+  text-align: center;
+  position: relative;
+}
+.apple-pie{
+  height: 500px;
+  width: 700px;
+}
+.img-title{
+  position: absolute;
+  color: white;
+  bottom: 280px;
+  right: 620px;
+  letter-spacing: 0.1rem;
+  font-size: 50px;
+}
+.recipe-intro{
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+}
+.recipe-icons{
+  height: 50px;
+  margin: 20px;
+}
+.div-line-container{
+   display: flex;
+   justify-content: center;
+}
+.line{
+  border: 1px solid grey;
+  width: 580px;
+}
+.ingredients{
+  text-align: center;
+}
+.ing-title{
+  margin-right: 400px;
+}
+.ing-list{
+  display: flex;
+  justify-content: center;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+.recipe-list{
+  margin-bottom: 20px;
+}
+.no-style_list{
+  list-style: none;
+}
+.cooking-cont{
+  display: flex;
+  justify-content: center;
+}
+.cooking-icons{
+  width: 300px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+.directions{
+  display: flex;
+  justify-content: center;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+.di-title{
+  margin-right: 300px;
+}
+.di-list{
+  display: flex;
+  justify-content: center;
+  margin-left: 220px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

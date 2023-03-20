@@ -7,3 +7,24 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+.image-container{
+  color: #fff;
+  text-align: center;
+  position: relative;
+}
+.apple-pie{
+  height: 500px;
+  width: 700px;
+}
+.img-title{
+  position: absolute;
+  color: white;
+  bottom: 280px;
+  right: 620px;
+  letter-spacing: 0.1rem;
+  font-size: 50px;
+}
+.recipe-intro{
+  text-align: center;
+  padding: 20px;
+}
